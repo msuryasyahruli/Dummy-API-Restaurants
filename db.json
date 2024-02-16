@@ -1,0 +1,119 @@
+{
+  "account": [
+    {
+      "id": 1,
+      "name": "User",
+      "password": "user123"
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "1",
+      "restaurantImage": "https://www.restolacuisine.com/restaurants/restaurant-la-cuisine/website/images/Lacuisine_resto.jpg",
+      "restaurantName":  "RESTAURANT LA CUISINE",
+      "rating": 4,
+      "cuisine": "French",
+      "priceRange": "$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "2",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/27/9f/45/bc/restaurant.jpg",
+      "restaurantName":  "Panoramic Restaurant",
+      "rating": 4,
+      "cuisine": "Turkish",
+      "priceRange": "$$$",
+      "openClose": "CLOSED"
+    },
+    {
+      "id": "3",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/14/26/75/c4/jakarta-restaurant-presents.jpg",
+      "restaurantName":  "Jakarta Restaurant",
+      "rating": 4,
+      "cuisine": "Indonesian",
+      "priceRange": "$$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "4",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/25/8e/00/bb/the-restaurant.jpg",
+      "restaurantName":  "The Restaurant",
+      "rating": 5,
+      "cuisine": "European",
+      "priceRange": "$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "5",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/28/55/a9/01/atolye.jpg",
+      "restaurantName":  "Atölye Restaurant",
+      "rating": 5,
+      "cuisine": "Turkish",
+      "priceRange": "$$$$",
+      "openClose": "CLOSED"
+    },
+    {
+      "id": "6",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/24/7a/01/5a/views.jpg",
+      "restaurantName":  "BUHARA FİSH MEAT HOUSE ROOF",
+      "rating": 5,
+      "cuisine": "Turkish",
+      "priceRange": "$$$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "7",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/17/36/41/bd/lotiz-lounge-hookah.jpg",
+      "restaurantName":  "Lotiz Lounge & Hookah",
+      "rating": 5,
+      "cuisine": "Turkish",
+      "priceRange": "$",
+      "openClose": "CLOSED"
+    },
+    {
+      "id": "8",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/15/78/0d/c8/western-station.jpg",
+      "restaurantName":  "Sana Sini Restaurant",
+      "rating": 5,
+      "cuisine": "Japanese",
+      "priceRange": "$$$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "9",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/05/ff/f4/88/the-dining-room.jpg",
+      "restaurantName":  "Table8",
+      "rating": 5,
+      "cuisine": "Chinese",
+      "priceRange": "$$$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "10",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/05/29/78/d5/edogin-restaurant.jpg",
+      "restaurantName":  "Edogin Restaurant",
+      "rating": 5,
+      "cuisine": "Japanese",
+      "priceRange": "$$$$",
+      "openClose": "OPEN NOW"
+    },
+    {
+      "id": "11",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/0a/d2/fb/a9/din-tai-fung-at-mall.jpg",
+      "restaurantName":  "Din Tai Fung",
+      "rating": 4,
+      "cuisine": "Chinese",
+      "priceRange": "$$",
+      "openClose": "CLOSED"
+    },
+    {
+      "id": "12",
+      "restaurantImage": "https://media-cdn.tripadvisor.com/media/photo-s/10/4e/af/c4/the-spacious-looking.jpg",
+      "restaurantName":  "Imperial Shanghai Lamian & Xiao Long Bao",
+      "rating": 4,
+      "cuisine": "Chinese",
+      "priceRange": "$$",
+      "openClose": "OPEN NOW"
+    }
+  ]
+}
